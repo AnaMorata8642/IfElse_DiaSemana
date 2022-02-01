@@ -1,0 +1,13 @@
+C:\Projetos\AMS\1ano\EstruturasIfElse\IfElse_DiaSemana\bin\Debug\netcoreapp3.1\IfElse_DiaSemana.exe
+C:\Projetos\AMS\1ano\EstruturasIfElse\IfElse_DiaSemana\bin\Debug\netcoreapp3.1\IfElse_DiaSemana.deps.json
+C:\Projetos\AMS\1ano\EstruturasIfElse\IfElse_DiaSemana\bin\Debug\netcoreapp3.1\IfElse_DiaSemana.runtimeconfig.json
+C:\Projetos\AMS\1ano\EstruturasIfElse\IfElse_DiaSemana\bin\Debug\netcoreapp3.1\IfElse_DiaSemana.runtimeconfig.dev.json
+C:\Projetos\AMS\1ano\EstruturasIfElse\IfElse_DiaSemana\bin\Debug\netcoreapp3.1\IfElse_DiaSemana.dll
+C:\Projetos\AMS\1ano\EstruturasIfElse\IfElse_DiaSemana\bin\Debug\netcoreapp3.1\IfElse_DiaSemana.pdb
+C:\Projetos\AMS\1ano\EstruturasIfElse\IfElse_DiaSemana\obj\Debug\netcoreapp3.1\IfElse_DiaSemana.csprojAssemblyReference.cache
+C:\Projetos\AMS\1ano\EstruturasIfElse\IfElse_DiaSemana\obj\Debug\netcoreapp3.1\IfElse_DiaSemana.AssemblyInfoInputs.cache
+C:\Projetos\AMS\1ano\EstruturasIfElse\IfElse_DiaSemana\obj\Debug\netcoreapp3.1\IfElse_DiaSemana.AssemblyInfo.cs
+C:\Projetos\AMS\1ano\EstruturasIfElse\IfElse_DiaSemana\obj\Debug\netcoreapp3.1\IfElse_DiaSemana.csproj.CoreCompileInputs.cache
+C:\Projetos\AMS\1ano\EstruturasIfElse\IfElse_DiaSemana\obj\Debug\netcoreapp3.1\IfElse_DiaSemana.dll
+C:\Projetos\AMS\1ano\EstruturasIfElse\IfElse_DiaSemana\obj\Debug\netcoreapp3.1\IfElse_DiaSemana.pdb
+C:\Projetos\AMS\1ano\EstruturasIfElse\IfElse_DiaSemana\obj\Debug\netcoreapp3.1\IfElse_DiaSemana.genruntimeconfig.cache
